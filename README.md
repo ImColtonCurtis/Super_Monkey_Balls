@@ -9,7 +9,7 @@ Super Donkey Balls is a cross-platform racing party game developed by No Nothing
     Maze-like stages: The game features maze-like stages with various obstacles to dodge, providing a challenging experience for players.
     Time-based challenges: Each stage has a time limit, adding an additional layer of challenge to the game as players race against the clock to complete the stages.
 
-## How to Play
+## How to Play 
 
 Super Donkey Balls is easy to pick up and play. Players control a donkey ball and navigate through maze-like stages, dodging obstacles and racing against other players. The game features unique controls that players will need to master to maneuver through the stages quickly and efficiently. Players must also be mindful of the time limit for each stage, as they must complete the stages within the specified time to win.
 ## Contact Information
